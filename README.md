@@ -3,7 +3,7 @@ Mobile app developed with React-Native as part of the [Udacity React Nanodegree 
 
 A mobile application (Android & iOS) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
-[![wyr-login.png](https://i.postimg.cc/vTCn4mKh/wyr-login.png)](https://postimg.cc/XBcqhn4B)
+[![flashcards.png](https://i.postimg.cc/xj4yQZ95/flashcards.png)](https://postimg.cc/LhjZBNYg)
 
 ## Setup
 1. Clone the repository
